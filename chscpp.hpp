@@ -21,6 +21,16 @@
 #define 枚举 enum
 //到这里
 
+#define 外部 extern
+#define 常量 const
+#define 不优化 volatile
+#define 唯一 restrict
+#define 自动 auto
+#define 寄存 register
+#define 静态 static
+#define 可变 mutable
+#define 线程局部 thread_local
+
 #define 主啊 main
 #define 参数个数 argc
 #define 参数们 argv
