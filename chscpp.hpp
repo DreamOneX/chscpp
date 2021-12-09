@@ -19,7 +19,6 @@
 
 #define 定义类型 typedef
 #define 枚举 enum
-//到这里
 
 #define 外部 extern
 #define 常量 const
@@ -30,6 +29,22 @@
 #define 静态 static
 #define 可变 mutable
 #define 线程局部 thread_local
+
+//循环
+#define 循环 for
+#define 条件循环 while
+#define 做 do
+
+#define 终止 break
+#define 跳过 continue
+#define 跳转 goto
+
+#define 此 this
+
+//条件控制
+#define 如果 if
+#define 否则 else
+#define 选择 switch
 
 #define 主啊 main
 #define 参数个数 argc
