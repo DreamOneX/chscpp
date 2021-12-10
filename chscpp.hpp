@@ -29,6 +29,7 @@
 #define 静态 static
 #define 可变 mutable
 #define 线程局部 thread_local
+#define 内联 inline
 
 #define 安全向下转型 dynamic_cast
 #define 强制隐型转换 static_cast
@@ -56,6 +57,15 @@
 #define 字节数 sizeof
 #define 结构体 struct
 #define 共同体 union
+
+#define 类 class
+#define 公开 public
+#define 保护 protected
+#define 私有 private
+#define 友元 friend
+#define 构造 new
+#define 抽象 virtual
+#define 运算符 operator
 
 #define 主啊 main
 #define 参数个数 argc
