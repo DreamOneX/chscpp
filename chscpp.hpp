@@ -20,7 +20,7 @@
 #define 定义类型 typedef
 #define 枚举 enum
 
-#define 外部 extern
+#define 声明 extern
 #define 常量 const
 #define 不优化 volatile
 #define 唯一 restrict
