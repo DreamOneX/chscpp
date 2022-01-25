@@ -3,21 +3,21 @@
 #define 使用 using
 #define 标准 std
 
-//数据类型
-#define 整型 int
-#define 布尔型 bool
-#define 字符型 char
-#define 浮点型 float
-#define 双浮点型 double
-#define 无类型 void
-#define 宽字符型 twchar_t
+//数据类形
+#define 整形 int
+#define 布尔形 bool
+#define 字符形 char
+#define 浮点形 float
+#define 双浮点形 double
+#define 无类形 void
+#define 宽字符形 twchar_t
 
 #define 短 short
 #define 长 long
 #define 有符号 signed
 #define 无符号 unsigned
 
-#define 定义类型 typedef
+#define 定义类形 typedef
 #define 枚举 enum
 
 #define 声明 extern
@@ -31,10 +31,10 @@
 #define 线程局部 thread_local
 #define 内联 inline
 
-#define 安全向下转型 dynamic_cast
-#define 强制隐型转换 static_cast
-#define 强制消除常量转型 const_cast
-#define 底层强制转型 reinterpret_cast
+#define 安全向下转形 dynamic_cast
+#define 强制隐形转换 static_cast
+#define 强制消除常量转形 const_cast
+#define 底层强制转形 reinterpret_cast
 
 //循环
 #define 循环 for
